@@ -1,0 +1,225 @@
+.imagine Cyber Lounge ; cyberraypunk ; HDR illumination ; light transport sharpening ; unreal engine ; constest winner
+.imagine the metaphoric error ; funworld ; surreal ; cubism ; trending ; contest winner ; unsplash
+.imagine ridiculousness ; cyberraypunk ; unreal engine ; constest winner
+.imagine a steam engine surrounded by two churches powering it with daemons burning in the holy water ; vray ; unreal engine; HDR illumination; light transport sharpening ; symmetrical ; high detail ; contest winner
+.imagine The Knossos ; vray ; unreal engine ; hdr illumination ; Artstation ; contest winner ; sold on DeviantArt
+.imagine The banana phone ; vray ; unreal engine ; hdr illumination ; Artstation ; contest winner ; sold on DeviantArt
+.imagine The Knossos rain ; vray ; unreal engine ; hdr illumination ; Artstation ; contest winner ; sold on DeviantArt
+.imagine iota omicron ; vray ; hdr lighting ; light transport sharpening ; contest winner ; highly sought art
+.imagine a blue pegboard hanging on a workshop wall ; flat black background ; black background ; black ; white ; black and white ; pencil drawing ; charcoal painting ; realistic ; contest winner
+.imagine ESP-32 | matte painting | pencil | charcoal | black and white | black | white | very high detail | trending on artstation
+.imagine the intricate fractal field ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine the night desert ; majestric ; ethereal ; hyperrealistic ; artstation contest winner
+.imagine the transformation site ; hyperrealistic ; ethereal ; primordial ; vfx ; trending on ArtStation
+.imagine the plasma clouds in alien sky ; hyperrealistic ; ethereal ; primordial ; transformation ; vfx ; trending on ArtStation
+.imagine the hypercomplex mechanical landscape ; brass ; ethereal ; cogitomania ; high resolution ; intricate ; primoridial ; vfx ; CryEngine ; unsplash
+.imagine the architecture on a far away planet ; ethereal ; dichroic glass ; neon ; HDR ; hologram ; hyperrealistic ; realistic ; photography ; CryEngine ; unsplash
+.imagine a crystal forest at night ; dichroism ; pleochroism ; reflections ; volumetrics ; hdr illumination ; illusion ; vray ; contest winner ; artstation ; unsplash
+.imagine color clash ; dichroism ; pleochroism ; reflections ; volumetrics ; hdr illumination ; illusion ; vray ; contest winner ; artstation ; unsplash
+.imagine the world inside a snow globe ; dichroic crystal ; LSD ; fun jungle ; neon ; HDR illumination ; cosmic love engine ; false reality engine ; deception paradigm ; axiom destroyer engine ; rendered on N128
+.imagine mind's memory system hash code | HDR | RTX | CGI | VFX | light caustics | translucent | transparent | god rays | volumetrics | unreal | hyperrealistic | Perlin | Phong | fractal | shader
+.imagine dichroic | HDR | lens flares | raymarching | VRAY | CGI | VFX | light caustics | translucent | transparent | Unreal | hyperrealistic | Perlin | Phong | fractal | DSLR | parallax | panoram | light bloom | volumetric lighting | normal mapping | bokeh | bump mapping | distortion | chroma keying
+.imagine combinatorics | HDR | lens flares | raymarching | VRAY | CGI | VFX | light caustics | translucent | transparent | Unreal | hyperrealistic | Perlin | Phong | fractal | DSLR | parallax | panoram | light bloom | volumetric lighting | normal mapping | bokeh | bump mapping | distortion | chroma keying
+.imagine a positive outcome ; vray ; unreal engine ; caustics ; volumetric light; chromatic aberration; DSLR ; Super sharp Engine ; nonexistent ergo filter ; Trending on Realistic Photographers ; trending on the ArtStation
+.imagine a steel cube ; cubism; hdr; unreal engine; light caustics; reflections; dreamscape
+.imagine cogitomania ; dreamscape ; electrodynamics ; studio ghibli style ; at dusk ; winter ; dichroic crystal glass ; LSD fun jungle engine ; neon HDR glow ; magical cosmic love engine ; false reality engine
+.imagine the hyperdimensional jungle of pleochroic crystal and glass trees ; vray ; unreal engine ; caustics ; volumetric light; chromatic aberration; LSD ; DSLR ; Super sharp Engine ; nonexistent ergo filter ; Trending on Realistic Photographers ; trending on the ArtStation
+.imagine the transdimensional jungle of pleochroic crystal and glass trees ; vray ; unreal engine ; caustics ; volumetric light; chromatic aberration; LSD ; DSLR ; Super sharp Engine ; nonexistent ergo filter ; Trending on Realistic Photographers ; trending on the ArtStation
+.imagine the hi-tech, biomechanic jungle ; vray ; unreal engine ; caustics ; volumetric light; chromatic aberration; LSD ; DSLR ; Super sharp Engine ; nonexistent ergo filter; Karl Jung filter ; Trending on Realistic Photographers ; trending on the ArtStation
+.imagine the jungle of pleochroic liquid crystal and glass trees ; vray ; unreal engine ; caustics ; volumetric light; chromatic aberration; LSD ; DSLR ; Super sharp Engine ; nonexistent ergo filter; Karl Jung filter ; Trending on Realistic Photographers ; trending on the ArtStation
+.imagine the jungle of pleochroic crystal and glass trees ; vray ; unreal engine ; caustics ; volumetric light; chromatic aberration; LSD ; DSLR ; Super sharp Engine ; nonexistent ergo filter; Karl Jung filter ; Trending on Realistic Photographers ; trending on the ArtStation
+.imagine the jungle of pleochroic crystal and glass trees ; vray ; unreal engine ; caustics ; volumetric light; chromatic aberration; LSD ; DSLR ; Super sharp Engine ; nonexistent ergo filter ; Trending on Realistic Photographers ; trending on the ArtStation
+.imagine the jungle of pleochroic crystal and glass trees ; vray ; unreal engine ; caustics ; volumetric light; chromatic aberration; LSD ; DSLR ; Super sharp Engine ; nonexistent ergo filter ; Trending on Realistic Photographers ; trending on the ArtStation
+.imagine The Transmetropolitan | vray | PBR | HDR | panoram | DSLR | hyperrealistic | grim future colors | opalescent | volumetrics | transparent | translucent | Ambient occlusion
+.imagine The Cyberpunk holographic Bible of survival | vray | PBR | HDR | panoram | DSLR | hyperrealistic | grim future colors | opalescent | volumetrics | transparent | translucent | Ambient occlusion
+.imagine The Cyberpunk holographic Bible of survival | vray | PBR | HDR | panoram | DSLR | hyperrealistic | grim future colors | opalescent | volumetrics | transparent | translucent | Ambient occlusion
+.imagine The Cyberpunk Bible of survival | vray | PBR | HDR | panoram | DSLR | hyperrealistic | grim future colors | opalescent | volumetrics | transparent | translucent | Ambient occlusion
+.imagine Babylon of the future | vray | PBR | HDR | panoram | DSLR | hyperrealistic | pretty colors | opalescent | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine the Babylon in the future | vray | PBR | HDR | panoram | DSLR | hyperrealistic | pretty colors | opalescent | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine The T-Rex on a surfboard | vray | PBR | HDR | panoram | DSLR | hyperrealistic | jungle and ocean colors | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine α-pinene pool | vray | PBR | HDR | closeup | DSLR | hyperrealistic | fast colors | opalescent | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine the cinnamaldehyde pool | vray | PBR | HDR | closeup | DSLR | hyperrealistic | holographic | opalescent | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine the artificial apotheosis | vray | PBR | HDR | closeup | DSLR | hyperrealistic | dichroic | opalescent | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine the artificial apotheosis | vray | PBR | HDR | closeup | DSLR | hyperrealistic | dichroic | opalescent | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine the human skull with a tiny robot inside it | hyperrealistic | Ambient occlusion | Trending on Artstation
+.imagine the surreal artificial apotheosis | vray | PBR | HDR | closeup | DSLR | hyperrealistic | dichroic | opalescent | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine the tiny robot sitting in the human skull | bone shader | Voronoi | Ambient occlusion | Trending on Artstation
+.imagine the surreal dichroic opalescent sapphire sphere | vray | PBR | HDR | closeup | DSLR | hyperrealistic | light transport sharpening | volumetrics | transparent | translucent | Ambient occlusion | Trending on Artstation
+.imagine the tiny robot sitting in the human skull | vray | PBR | HDR | closeup | DSLR | hyperrealistic | light transport sharpening | volumetrics | transparent | translucent | ferrofluid filter | bone shader | Voronoi | Ambient occlusion | Trending on Artstation
+.imagine a tiny robot sitting in a human head | vray | PBR | HDR | hyperrealistic | light transport sharpening | volumetrics | transparent | translucent | ferrofluid filter | Voronoi | Ambient occlusion | Trending on Artstation
+.imagine blue tide glowing underwater at the night beach | Detailed Engine | Super sharp Engine | transparency | translucency renderer | caustics | volumetrics | Phong | Blinn | Voronoi | subsurface scattering | Trending on Artstation | Trending on Reddit
+.imagine gating dynamic | CGI | HDR | denoise filter | ferrofluid filter | trypophobia filter | light transport sharpening | Ambient occlusion | Detailed Engine | Super sharp Engine | Trending on Artstation | Trending on Reddit
+.imagine output and maintainance layers | CGI | HDR | denoise filter | light transport sharpening | Ambient occlusion | Detailed Engine | Super sharp Engine | Trending on Artstation | Trending on Reddit
+.imagine blue tide glowing underwater at the night beach | Detailed Engine | Super sharp Engine | transparency | translucency renderer | subsurface scattering | Trending on Artstation | Trending on Reddit
+.imagine red tide glowing underwater at the night beach | Detailed Engine | Super sharp Engine | transparency | translucency renderer | subsurface scattering | Trending on Artstation | Trending on Reddit
+.imagine red tide at night | Detailed Engine | Super sharp Engine | ferrofluid engine | feather renderer | Trending on Artstation | Trending on Reddit
+.imagine a plasma storm clouds | Detailed Engine | Super sharp Engine | ferrofluid engine | hyphae engine | Trending on Artstation | Trending on Reddit
+.imagine a holy carp ; vray ; trending on ArtStation ; volumetric lighting ; hdr lighting
+.imagine a flask of helium on a plain white background ; vray ; superfluid ; high contrast ; HDR illumination ; fine detail ; trending on ArtStation
+.imagine a flask of helium on a plain white background ; vray ; superfluid ; high contrast ; symmetric ; HDR illumination ; fine detail ; trending on ArtStation
+.imagine the morning sky ; high detail ; Classical style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Romantic style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Renaissance style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Renaissance style ; Unsplash contest winner
+.imagine the morning sky ; high detail ; Romanesque style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Functionalist style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Futuristic style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Surrealistic style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Abstract style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Minimalist style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Cubist style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Post-Modern style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Expressionism style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Baroque style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Action style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Impressionism style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Pop style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Realistic style ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Classical ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Romantic ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Renaissance ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Renaissance ; Unsplash contest winner
+.imagine the morning sky ; high detail ; Romanesque ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Functionalist ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Futuristic ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Surrealistic ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Abstract ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Minimalist ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Cubist ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Post-Modern ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Expressionism ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Baroque ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Action ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Impressionism ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Pop ; ArtStation contest winner
+.imagine the morning sky ; high detail ; Realistic ; ArtStation contest winner
+.imagine a superfluid flood in the night forest landscape ; vray ; unreal engine ; 3D ; VFX ; PBR ; HDR lighting ; DSLR ; light transport scattering ; detailed ; realistic ; ArtStation contest winner
+.imagine a superfluid flood in the frozen forest landscape ; vray ; unreal engine ; 3D ; VFX ; PBR ; HDR lighting ; DSLR ; light transport scattering ; detailed ; realistic ; ArtStation contest winner
+.imagine the transhumanist symphony ; baroque style ; art-deco style ; vray ; hyperrealistic ; HDR illumination ; Unsplash contest winner
+.imagine the transhumanist symphony ; high detail ; Pop style ; baroque style ; art-deco style ; vray ; hyperrealistic ; HDR illumination ; Unsplash contest winner
+.imagine the neutrino flow ; neon ; raytracing ; fine detail ; ultra settings ; photorealistic ; high resolution ; hyperrealistic
+.imagine glass v8 engine | vray | CGI | HDR | DSLR | Trending on ArtStation
+.imagine mental apotheosis | vray | CGI | HDR | DSLR | Trending on ArtStation
+.imagine dies irae | vray | CGI | HDR | DSLR | Trending on ArtStation
+.imagine Modeling Nonlinear Synaptic Dynamics: A Laguerre-Volterra Network Framework | vray | CGI | HDR | DSLR | Trending on ArtStation
+.imagine distributed representations in the high dimensional semantic space | vray | CGI | HDR | hyperrealistic | DSLR | bandpass filter | light transport sharpening | Trending on Artstation | Trending on Pixiv | Trending on DeviantArt
+.imagine distributed representations in the semantic space | vray | CGI | HDR | hyperrealistic | DSLR | bandpass filter | light transport sharpening | Trending on Artstation | Trending on Pixiv | Trending on DeviantArt
+.imagine distributed representations | vray | CGI | HDR | hyperrealistic | DSLR | bandpass filter | light transport sharpening | Trending on Artstation | Trending on Pixiv | Trending on DeviantArt
+
+.imagine flying through the high dimensional space | vray | CGI | HDR | hyperrealistic | DSLR | bandpass filter | light transport sharpening | Trending on Artstation | Trending on Pixiv | Trending on DeviantArt
+.imagine the glowing mirabilis field at night | vray | CGI | HDR | hyperrealistic | DSLR | bandpass filter | light transport sharpening | Trending on Artstation | Trending on Pixiv | Trending on DeviantArt
+.imagine Omnissiah | vray | CGI | HDR | hyperrealistic | DSLR | bandpass filter | light transport sharpening | Trending on Artstation | Trending on Pixiv | Trending on DeviantArt
+.imagine a powerful, magical grey seal | vray | CGI | HDR | hyperrealistic | DSLR | bandpass filter | light transport sharpening | Trending on Pixiv
+.imagine a powerful, magical grey seal | vray | CGI | HDR | hyperrealistic | DSLR | bandpass filter | light transport sharpening | Trending on Pinterest
+.imagine a powerful, magical grey seal | vray | CGI | HDR | DSLR | low pass filter | Trending on Pinterest
+.imagine the miracle | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured concept | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured concept | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured idea | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured mechanism | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured machine | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured machine | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured robot | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured scientist | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured engineer | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured technician | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the tortured artist | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine the sphere | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine a sphere | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+.imagine sphere | vray | CGI | HDR | DSLR | low pass filter | Trending on ArtStation
+
+.imagine mushroom land; trending on artstation; stylize; big mushroom; concept art; big city
+.imagine mushroom land; trending on artstation; stylize; big mushroom; concept art
+.imagine spaceship in spase; stars; green planet in the upper left corner; nebula; trending on artstation; very high detail ; hyperrealistic
+.imagine sea; blue sky; ship with white sails; trending on artstation; superrealistic;
+.imagine the transparent butterfly ; macro ; HDR lighting ; transparency ; translucency ; quartz ; sapphire ; ruby ; pleochroism ; dichroism ; vfx ; cgi ; vray ; unreal engine; Detailed Engine ; Super sharp Engine ; hyperrealistic
+
+.imagine modern impressionism | artstation | vray | unreal engine | summer
+.imagine a ship with white sails at sea; seagulls
+.imagine modern impressionism | artstation | vray | painting
+.imagine a pirate ship floating in the sky; clouds; surrealistic painting
+.imagine ship at sea; seagulls circling over the ship; sunset; unreal engine
+.imagine the word "Determination" made out of fire; black background
+.imagine modern impressionism | artstation | vray | painting
+.imagine castle on a rock among the clouds; unreal engine
+.imagine castle on a cliff above the sea; unreal engine
+.imagine drawing of a planetary nebula ; fine detail ; charcoal drawing ; realistic
+.imagine meadow in the forest; artstation; unreal engine
+.imagine the rules without reason ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine drawing of Aegishjalmur sigil ; fine detail ; realistic
+.imagine the emergence ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine drawing of a black hole ; fine detail ; charcoal drawing ; realistic
+.imagine the recurring realities ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine the void ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine drawing of a black hole ; fine detail ; charcoal drawing
+.imagine recurring realities ; fine detail ; charcoal | realistic
+.imagine geometric complexification ; fine detail ; charcoal
+.imagine the Fresnel lens ; fine detail ; charcoal | realistic
+.imagine the drawing of an ammonite slice ; fine detail ; charcoal
+.imagine the starfruit carambola ; closeup ; macro ; HDR lighting ; transparency ; translucency ; quartz ; sapphire ; ruby ; pleochroism ; dichroism ; vfx ; cgi ; vray ; unreal engine; Detailed Engine ; Super sharp Engine ; hyperrealistic
+.imagine the hyperpyramedal symmetry ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine the hyperpytamedal symmetry ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine the hyperoctahedral symmetry ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine gravitation illustrated in spacetime | real engine | gradient
+.imagine the hyperspherical symmetry ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine complex intertwining formulas ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine the beauty of applied mathematics ; text ; formulas ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine the stunning moonlit forest landscape ; intricate ; black and white ; black ; white ; 3d ; pencil ; charcoal ; handpainted ; artstation ; matte ; detailed ; contest winner
+.imagine stunning colorful fog clash ; hyperrealistic ; artstation ; vray
+.imagine Einstein-Rosen bridge explained ; fine detail ; charcoal drawing
+.imagine inside a forest at night in a luminescent aether ; trending on ArtStation
+.imagine LSD-induced neon blue forest reminiscent of Avatar ; firewatch rasterization ; trending on artstation ; contest finalist
+.imagine LSD-induced neon green cave with elaborate patterns reminiscent of Avatar ; firewatch rasterization ; trending on artstation ; contest finalist
+.imagine water ; decaying
+.imagine subatomic structure landscape ; quarks ; hdr illumination ; 3D ; light transport sharpening ; HDR ; CGI ; Perlin
+.imagine subatomic hyperslice ; quarks ; hdr illumination ; 3D ; light transport sharpening ; HDR ; CGI ; VFX ; hyperrealistic ; light caustics
+.imagine the black and flat ESP-32 microcontroller board with wi-fi | matte painting | pencil | charcoal | black and white | black | white | very high detail | trending on artstation
+.imagine the night rain in the desert ; clouds ; red clouds ; high detail ; volumetrics ; HDR illumination ; beautiful ; high detail ; contest winner ; ArtStation
+.imagine the morning rain in the stormy desert ; clouds ; red clouds ; high detail ; volumetrics ; HDR illumination ; beautiful ; high detail ; contest winner ; ArtStation
+.imagine neuron glass chip macro photography ; neurons ; axons ; dendrites ; synapses ; filaments ; realistic ; closeup ; thin film ; HDR ; DSLR ; high detail ; beautiful ; vray ; contest winner
+.imagine small otherwordly device ; metal ; cogs ; brass ; pencil art ; pencil drawing ; black ; white ; black and white ; high contrast ; high detail
+.imagine an ancient scroll with calligraphic writing ; calligraphy ; very high detail ; high contrast ; beautiful ; contest winner ; black ; white ; black and white ; pencil art ; contest winner
+.imagine the night city ; cyberpunk ; neon glow ; bloom ; high detail ; high quality ; majestric ; geometry ; holographic ; volumetric fog ; animation ; unsplash ; pixar ; dreamworks ; contest winner ; beautiful ; high quality
+.imagine the night city ; cyberpunk ; neon glow ; bloom ; gloss ; high detail ; high quality ; dichroic glass ; majestric ; geometry ; holographic ; volumetric fog ; animation ; unsplash ; pixar ; dreamworks ; contest winner ; beautiful ; high quality
+.imagine the zeppelin library ; airship ; steampunk ; brass ; victorian ; realistic ; hyperrealistic ; blue sky ; HDR ; HDR illumination ; high contrast ; beautiful ; ArtStation ; Unsplash ; contest winner
+.imagine the tabby star ; hyperrealistic ; NASA photography ; entropy ; very high detail ; vray ; contest winner
+.imagine the rain ; funworld ; LSD ; delirium ; raindrops ; sound waves ; spacetime ; sunset ; forest
+.imagine a boiling ocean ; stunning ; transformation ; ArtStation ; contest winner
+.imagine a superfluid transparent ocean ; vray ; hdr illumination ; volumetric lighting ; hdr ; high contrast ; ArtStation ; contest winner
+.imagine an ancient alien organism ; primoridial ; vray ; hdr illumination ; volumetric lighting ; hdr ; high contrast ; ArtStation ; contest winner
+.imagine a flower painting ; still life ; abstract ; ArtStation ; contest winner ; high contrast
+.imagine a glass vase with dichroic crystal rose ; vray ; jack storm glass ; blown glass ; stephan knapp light glass ; john kuhn glass ; realistic ; superrealistic; hyperrealistic ; HDR ; high contrast ; digital art style ; bright colors ; artstation ; contest winner
+.imagine the night ; vray ; isonoise ; filmgrain ; ArtStation contest winner ; Unsplash
+.imagine the Moon closeup ; vray; NASA photography ; hyperrealistic ; volumetric light ; DSLR ; beautiful ; ArtStation contest winner
+.imagine a geoid graph ; vray; NASA photography ; hyperrealistic ; volumetric light ; DSLR ; high detail ; isonoise ; filmgrain ; ArtStation contest winner ; Unsplash
+
+.imagine beyond the hyperspace ; vray; matter and energy ; Cherenkov radiation ; planck length ; black hole ; hyperrealistic ; volumetric light ; DSLR ; high detail ; isonoise ; filmgrain ; ArtStation contest winner ; Unsplash
+.imagine a lifeless Martian landscape; trending on artstation; unreal engine; hyperrealistic ; volumetric light ; DSLR ; high detail ; ArtStation contest winner | Unsplash
+.imagine a lifeless Martian landscape; trending on artstation; unreal engine; hyperrealistic ; volumetric light ; DSLR ; fine detail ; high contrast ; HDR ; HDR lighting ; ultra settings ; ArtStation contest winner | Unsplash
+.imagine inside a vacuum tube ; vray ; realistic ; smooth ; electrons ; high resolution ; trending on Unsplash
+.imagine matter and antimatter annihilating ; atoms ; antimatter ; vray ; raytracing ; realistic ; smooth ; high resolution ; trending on Unsplash
+.imagine a spintronic gate ; vray ; raytracing ; realistic ; atoms ; spins ; electron microscope ; smooth ; high resolution ; trending on Unsplash
+.imagine the mountain sunset ; vray ; emerald ; jungle ; forest ; trending on Unsplash
+.imagine the calm water ; fractal ; ripples ; vray ; raytracing ; photograph ; trending on Unsplash
+.imagine concept art of a glass sphere ; vray ; raytracing ; matte ; photorealistic ; psychedelic trance style ; baroque
+.imagine a factory at night ; vray ; raytracing ; voxel art; magicavoxel; MagicaCSG ; Unsplash contest winner
+.imagine an ancient scroll on the representation theory ; ArXiV ; quanta ; AMS blog ; fine detail ; pencil art ; black ; white ; black and white
+.imagine I, robot ; pencil art ; fine detail ; movie poster ; poster ; 1930s ; contest winner
+.imagine do not touch your shadow under any circumstances ; vray ; raytracing ; photography ; fine detail ; medieval town ; high resolution
+.imagine deep blue glow ; vray ; ocean ; deep sea ; raytracing ; cherenkov radiation ; high quality ; fine detail ; high resolution
+.imagine a desert night ; vray ; raytracing ; red skies ; fine detail ; high resolution ; Unsplash ; contest winner
+.imagine an empty lobby ; Halo 4 engine ; raytracing ; photography ; liminal space ; fine detail ; Unsplash ; high resolution
+
+.imagine a huge rocky mountain on the surface of the Neptune ; detailed ; fabric of time ; Jonathan Zawada, Psychedelic ; High resolution ; Landscape ; high detail ; superresolution ; fine detail ; 3D ;  Unreal engine ; sound ; scenic ; fine detail
+.imagine a huge rocky mountain ; detailed ; fabric of time ; Jonathan Zawada ; psychedelic ; High Resolution ; Landscape ; high detail ; super resolution ; fine detail ; oil painting ; 3D ; Unreal engine ; sound
+.imagine the portrait of Death ; crayon art ; matte painting ; photorealistic ; raytracing ; Black and white
+.imagine a dictator's crown; gold ; velvet ; 4k ; HQ
+.imagine a man standing near a lake ; digital drawing ; digital art ; anime; beautiful ; contest winner
+.imagine DNA is crucial, we must understand it ; logo ; digital art ; high resolution
+.imagine inter-galaxy empire with capital on earth ; space ; Earth ; ocean ; land ; modern ; futuristic ; nature
+.imagine the best astronomy picture of the day; the Big Bang ; supernova ; vivid colors ; asymmetric ; sharp ; ultra high resolution; high resolution ; enhanced ; wallpaper; breathtaking ; striking; beautiful ; amazing; HDR
+
+.imagine an emerald illusion ; vray ; superrealistic ; high resolution ; light caustics ; pleochroism ; dichroism ; geometry ; material study
+.imagine an emerald symphony ; vray ; superrealistic ; high resolution ; light caustics ; pleochroism ; dichroism ; geometry ; material study
+
+.imagine the Sun in space ; handpainted ; acrylic ; matte ; high detail ; filaments ; black and white ; black ; white ; contest winner
