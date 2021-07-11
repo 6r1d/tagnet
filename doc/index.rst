@@ -1,6 +1,12 @@
 Tagnet: a CLIP tags exploration tool
 ====================================
 
+`Online demo <https://6r1d.github.io/CLIP_graph_visualized/index.html>`_
+
+.. image:: _static/tags_web_2d_01.png
+  :width: 620
+  :alt: CLIP tags
+
 Introduction
 ------------
 
@@ -16,10 +22,6 @@ a Discord bot by `BoneAmputee <https://twitter.com/boneamputee>`_ and decided to
 Then I experimented more, especially with a pencil style and understood I will need more than one list, because co-occurences of the words create a `graph <https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)>`_! I have also added many prompts by other users, often with some editing and pre-processing to make them more uniform.
 The :code:`prompts` directory contains two files with mostly cleaned up prompt samples.
 
-.. image:: _static/tags_web_2d_01.png
-  :width: 620
-  :alt: CLIP tags
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
@@ -30,4 +32,5 @@ The :code:`prompts` directory contains two files with mostly cleaned up prompt s
 
 .. rubric:: Footnotes
 
-.. [#f1] ArXiV: `Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm <https://arxiv.org/pdf/2102.07350.pdf>`_ by Laria Reynolds and Kyle McDonell
+.. [#f1] ArXiV: `Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm <https://arxiv.org/pdf/2102.07350.pdf>`_ by Laria Reynolds and Kyle McDonell.
+         This article talks about the GPT-3 language model, but the same term applies to GPT-2, GPT-3, GPT-j and `CLIP <https://openai.com/blog/clip/>`__ itself.
