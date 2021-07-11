@@ -1,0 +1,27 @@
+.imagine the flowers in a desert ; colorful ; thorns ; stems ; blooming ; withering
+.imagine an adorable jumping spider ; nightmare ; happy ; hyper-detailed ; macro ; closeup ; chiaroscuro
+.imagine green color and the creativity ; psychedelic
+.imagine the spring ; Picasso
+.imagine the Eiffel tower ; Gaudi ; very high detail ; raytracing
+.imagine a clash of the elements ; water ; fire
+.imagine the City from far away ; skyline ; nature ; high detail ; HDR
+.imagine the Grand Canyon ; spring ; nature ; colorful
+.imagine inside and outside ; textured ; high detail
+.imagine the Niagara Falls ; Unreal Engine ; vray ; colorful ; water ; volumetrics ; detailed
+.imagine the sakura tree ; metal ; bonsai ; high detail ; Unsplash ; contest winner
+.imagine a cyberpunk highway ; realistic ; city ; futuristic ; high detail ; HDR ; Unsplash ; contest winner
+.imagine a steampunk city skyline ; storm ; lighting ; high detail ; Unsplash ; contest winner
+.imagine the god ; Unreal engine ; high detail ; volumetrics ; Unsplash
+.imagine the exploding tinker toys ; unreal engine ; 3D ; high detail
+.imagine the exploding puzzle pieces ; unreal engine ; vray ; raytracing ; 3D
+.imagine beneath the dark sea ; deep ; water ; high detail ; vray ; raytracing
+.imagine an obsidian statue in the center of an ashen wasteland ; raytracing ; high detail ; very high quality ; contest winner
+.imagine a tree weeping blood from its branches ; nightmare ; tortured ; raytracing ; high detail
+.imagine the happy tardigrades ; electron microscope ; unreal engine ; vray ; raytracing ; high detail
+.imagine a bacillus subtilis colony ; electron microscope ; digital art ; stylized ; raytracing ; high detail
+.imagine The Morning sky ; SVG Logo design ; Vector Logo Design ; Illustrator
+.imagine the triarch ; detailed ; vray ; raytracing ; metal ; bionic ; unsplash contest winner
+.imagine the dryad ; raytracing ; vray ; metallic ; bionic ; unsplash contest winner ; 3d ; high resolution ; light caustics
+.imagine the sakura tree ; vray ; metallic ; bionic ; metal ; bonsai ; 3D ; high detail ; high resolution ; Unsplash ; contest winner
+.imagine symmetric, parallel corrugated black pipes ; raytracing ; vray ; colorful ; inspirational ; metallic ; high quality ; denoise filter ; Unsplash contest winner
+.imagine Bifröst rainbow bridge ; high detail ; sci-fi; vray; volumetrics ; movie quality; Deviantart ; Unsplash
