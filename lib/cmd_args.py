@@ -58,7 +58,7 @@ def configure_parser():
     the :code:`tagnet` utility like "path", "output_file",
     "mode", "filter", etc.
     """
-    parser = ArgumentParser(description='Process some integers.')
+    parser = ArgumentParser(description='Tagnet utility.')
     parser.add_argument(
         '--path',
         help='A prompt directory path containing one or more of newline-delimited files',
